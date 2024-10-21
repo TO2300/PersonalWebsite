@@ -22,4 +22,5 @@ Achievements
 Below is a video demonstrating some of my best control (still working) I've had during a 
 Mr. Potato Head jump at SummerFest 2022.
 
-!!insert potatoJump!!
+.. raw:: html
+    :file: _templates/potatoJump.html
